@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Graphics:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Graphics_jar</output-path>
+    <root id="archive" name="Graphics.jar">
+      <element id="module-output" name="Graphics" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../processing-3.5.4/core/library/core.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
